@@ -8,7 +8,7 @@
 
 </div>
 
-## Info about me 
+## Info about me
 
 - languages:
     - ![python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![java](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=OpenJDK&logoColor=white) ![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white) ![haskell](https://img.shields.io/badge/-Haskell-3776AB?style=flat&logo=Haskell&logoColor=white) 
