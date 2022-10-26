@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome! 👋
+
+Welcome to my little corner of the internet [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRetr05041&count_bg=%23FF9900&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **Retr05041/Retr05041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
