@@ -10,6 +10,9 @@ Welcome to my little corner of the internet
 
 ## Info about me 
 
-* languages: ![python](https://badgen.net/badge/icon/python?icon=python&label) ![java](https://badgen.net/badge/icon/java?icon=java&label) ![JS](https://badgen.net/badge/icon/javascript?icon=javascript&label) ![haskell](https://badgen.net/badge/icon/haskell?icon=haskell&label) 
-* IDEs: ![VSCode](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
-* Operating Systems: ![windows](https://badgen.net/badge/icon/windows?icon=windows&label) ![debian](https://badgen.net/badge/icon/debian?icon=debian&label)
+- languages: ![python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![java](https://img.shields.io/badge/-Java-FCC624?style=flat&logo=Java&logoColor=white) ![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white) ![haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white) 
+
+- IDEs: ![VSCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white) 
+
+- Operating Systems: ![windows](https://badgen.net/badge/icon/windows?icon=windows&label) ![debian](https://badgen.net/badge/icon/linux?icon=linux&label)
+#F7DF1E
