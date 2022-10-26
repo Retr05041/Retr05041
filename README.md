@@ -20,5 +20,5 @@
     - ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white) 
 
 - Operating Systems: 
-    - ![windows](https://badgen.net/badge/icon/windows?icon=windows&label) 
+    - ![windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white)
     - ![debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=Debian&logoColor=white)
