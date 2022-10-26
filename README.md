@@ -12,7 +12,7 @@
 
 - languages:
     - ![python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) 
-    - ![java](https://img.shields.io/badge/-Java-FCC624?style=flat&logo=Java&logoColor=white) 
+    - ![java](https://img.shields.io/badge/-Java-FCC624?style=flat&logo=OpenJDK&logoColor=white) 
     - ![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white) 
     - ![haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white) 
 
