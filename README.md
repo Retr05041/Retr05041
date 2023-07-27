@@ -11,7 +11,7 @@
 ## Info about me
 
 - languages:
-    - ![C & C++](https://img.shields.io/badge/-C&C++-3776AB?style=flat&logo=C&logoColor=white) ![Java](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=OpenJDK&logoColor=white) ![Javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) 
+    - ![C & C++](https://img.shields.io/badge/-C&C++-3776AB?style=flat&logo=C&logoColor=white) ![Java](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=OpenJDK&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white) 
 - IDEs: 
     - ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-ff4500?style=flat&logo=VisualStudioCode&logoColor=white) ![Neovim](https://img.shields.io/badge/-Neovim-ff4500?style=flat&logo=Neovim&logoColor=white)
 - Operating Systems: 
