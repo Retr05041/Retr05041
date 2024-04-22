@@ -4,8 +4,6 @@
 
 <strong>Welcome to my little corner of the internet</strong>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Retr05041.Retr05041)
-
 </div>
 
 ## Info about me
